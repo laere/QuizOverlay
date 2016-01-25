@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah);
+html {
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  box-sizing: border-box; }
+
+.lightbox {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: center; }
+  .lightbox p {
+    color: white;
+    font-weight: bold;
+    font-size: 1.25em; }
+  .lightbox .content {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid black; }
+
+/*# sourceMappingURL=main.css.map */
